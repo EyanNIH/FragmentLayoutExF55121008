@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".FragmentExplore">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50px"
+        android:text="\t\t\t\t\t\t\t\t\t\t\tRiwayat Pendidikan
+        \n\nSD          : SDN 2 SIBALUTON
+        \n\nSMP       : SMPN 3 BASIDONDO
+        \n\nSMK       : SMKN 1 AMPANA KOTA
+        \n\nKULIAH : UNIVERSITAS TADULAKO
+        \n\t\t\t\t\t\t\t\t\t\t\tS1 TEKNIK INFORMATIKA"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+</LinearLayout>
